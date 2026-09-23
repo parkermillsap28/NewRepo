@@ -11,6 +11,7 @@ namespace ParkerCS{
         {
             Console.WriteLine("Welcome CS 1382 class to explore VS");
             Console.WriteLine("Second version");
+            Console.WriteLine("Change in repository");
             Console.ReadKey();
         }
     }
